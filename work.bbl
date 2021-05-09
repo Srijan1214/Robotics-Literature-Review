@@ -19,6 +19,50 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{zinn2004new}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b5eeb8d994eccae012bc9ca8f0451891}{%
+           family={Zinn},
+           familyi={Z\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=437ec9c1c949a7d89143d28da8aa94fe}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a1ed48939870abd896792330bc735967}{%
+           family={Khatib},
+           familyi={K\bibinitperiod},
+           given={Oussama},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f1db03423cbf423aceed779911e17181}{%
+           family={Salisbury},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima Kenneth},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{e9c85b1d3248291352bd642792b89579}
+      \strng{fullhash}{ee735370f0bd791e96ad002d0e92629c}
+      \strng{bibnamehash}{ee735370f0bd791e96ad002d0e92629c}
+      \strng{authorbibnamehash}{ee735370f0bd791e96ad002d0e92629c}
+      \strng{authornamehash}{e9c85b1d3248291352bd642792b89579}
+      \strng{authorfullhash}{ee735370f0bd791e96ad002d0e92629c}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The international journal of robotics research}
+      \field{number}{4-5}
+      \field{title}{A new actuation approach for human friendly robot design}
+      \field{volume}{23}
+      \field{year}{2004}
+      \field{pages}{379\bibrangedash 398}
+      \range{pages}{20}
+    \endentry
     \entry{Watson2019}{article}{}
       \name{author}{1}{}{%
         {{hash=b1bf2c625bb9d6acc91f67ec6cd104b6}{%
@@ -33,8 +77,8 @@
       \strng{authorbibnamehash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
       \strng{authornamehash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
       \strng{authorfullhash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Artificial intelligence (AI) has historically been conceptualized in anthropomorphic terms. Some algorithms deploy biomimetic designs in a deliberate attempt to effect a sort of digital isomorphism of the human brain. Others leverage more general learning strategies that happen to coincide with popular theories of cognitive science and social epistemology. In this paper, I challenge the anthropomorphic credentials of the neural network algorithm, whose similarities to human cognition I argue are vastly overstated and narrowly construed. I submit that three alternative supervised learning methods---namely lasso penalties, bagging, and boosting---offer subtler, more interesting analogies to human reasoning as both an individual and a social phenomenon. Despite the temptation to fall back on anthropomorphic tropes when discussing AI, however, I conclude that such rhetoric is at best misleading and at worst downright dangerous. The impulse to humanize algorithms is an obstacle to properly conceptualizing the ethical challenges posed by emerging technologies.}
@@ -121,8 +165,8 @@
       \strng{authorbibnamehash}{e4f449e4ce6b7a2977920c7f2dc1ae44}
       \strng{authornamehash}{aa8f31b3f7162abdeb9d74491161795f}
       \strng{authorfullhash}{e4f449e4ce6b7a2977920c7f2dc1ae44}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{nature}
@@ -157,8 +201,8 @@
       \strng{authorbibnamehash}{85a7c498f5ddd27a180aa6332612a1e2}
       \strng{authornamehash}{85a7c498f5ddd27a180aa6332612a1e2}
       \strng{authorfullhash}{85a7c498f5ddd27a180aa6332612a1e2}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sensors}
@@ -196,8 +240,8 @@
       \strng{authorbibnamehash}{1a23c09aa65b3c2ade45ed18d8127375}
       \strng{authornamehash}{1a23c09aa65b3c2ade45ed18d8127375}
       \strng{authorfullhash}{1a23c09aa65b3c2ade45ed18d8127375}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Advances in neural information processing systems}
@@ -270,6 +314,144 @@
       \field{year}{2015}
       \field{pages}{261\bibrangedash 266}
       \range{pages}{6}
+    \endentry
+    \entry{waldrop2016chips}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7e6d3395800bec53323c617f3ca8ece8}{%
+           family={Waldrop},
+           familyi={W\bibinitperiod},
+           given={M\bibnamedelima Mitchell},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e6d3395800bec53323c617f3ca8ece8}
+      \strng{fullhash}{7e6d3395800bec53323c617f3ca8ece8}
+      \strng{bibnamehash}{7e6d3395800bec53323c617f3ca8ece8}
+      \strng{authorbibnamehash}{7e6d3395800bec53323c617f3ca8ece8}
+      \strng{authornamehash}{7e6d3395800bec53323c617f3ca8ece8}
+      \strng{authorfullhash}{7e6d3395800bec53323c617f3ca8ece8}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature News}
+      \field{number}{7589}
+      \field{title}{The chips are down for Moore’s law}
+      \field{volume}{530}
+      \field{year}{2016}
+      \field{pages}{144}
+      \range{pages}{1}
+    \endentry
+    \entry{steinkraus2005using}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=c1e7c094b8682a55c8b027b68f3a0e80}{%
+           family={Steinkraus},
+           familyi={S\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod}}}%
+        {{hash=26af11cfc02d0f239a5482f14e1413f7}{%
+           family={Buck},
+           familyi={B\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f87cb5ca5bb69474ce4c6750c54016bc}{%
+           family={Simard},
+           familyi={S\bibinitperiod},
+           given={PY},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \strng{fullhash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \strng{bibnamehash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \strng{authorbibnamehash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \strng{authornamehash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \strng{authorfullhash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Eighth International Conference on Document Analysis and Recognition (ICDAR'05)}
+      \field{title}{Using GPUs for machine learning algorithms}
+      \field{pages}{1115\bibrangedash 1120}
+      \range{pages}{6}
+    \endentry
+    \entry{yang2018grand}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=fcdeef628f31c9c5305ee39311f1fcc6}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Guang-Zhong},
+           giveni={G\bibinithyphendelim Z\bibinitperiod}}}%
+        {{hash=23212fd266ee5c91c74385dbb75e869e}{%
+           family={Bellingham},
+           familyi={B\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=af5e27dd0e5ebc3161a0a2b97cf57f38}{%
+           family={Dupont},
+           familyi={D\bibinitperiod},
+           given={Pierre\bibnamedelima E},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=f5ccb4567b6edaf6eeecf5e629b32fed}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Peer},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0d57a43cc17e895c38b6d1656af4ece5}{%
+           family={Floridi},
+           familyi={F\bibinitperiod},
+           given={Luciano},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4e0ba4f2194ad54373291ff8e2a22189}{%
+           family={Full},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e2f8e79a7fccc4e9b5da2c10d21162ec}{%
+           family={Jacobstein},
+           familyi={J\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3c2a6a0658f1ad90e7d4a83eef9c3841}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Vijay},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3530ddbc909e9ae14eaed11124ff0b70}{%
+           family={McNutt},
+           familyi={M\bibinitperiod},
+           given={Marcia},
+           giveni={M\bibinitperiod}}}%
+        {{hash=acf56c30b8ef634d6fd61e38d1c557c5}{%
+           family={Merrifield},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AAAS}%
+      }
+      \strng{namehash}{91239b60eda9ba8e0c8bd776279d9b5b}
+      \strng{fullhash}{3f026d623141fabaa39072a95e7b66d0}
+      \strng{bibnamehash}{3f026d623141fabaa39072a95e7b66d0}
+      \strng{authorbibnamehash}{3f026d623141fabaa39072a95e7b66d0}
+      \strng{authornamehash}{91239b60eda9ba8e0c8bd776279d9b5b}
+      \strng{authorfullhash}{3f026d623141fabaa39072a95e7b66d0}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science robotics}
+      \field{number}{14}
+      \field{title}{The grand challenges of Science Robotics}
+      \field{volume}{3}
+      \field{year}{2018}
+      \field{pages}{eaar7650}
+      \range{pages}{-1}
     \endentry
   \enddatalist
 \endrefsection

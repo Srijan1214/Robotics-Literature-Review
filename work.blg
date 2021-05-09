@@ -1,21 +1,21 @@
 [0] Config.pm:312> INFO - This is Biber 2.15
 [0] Config.pm:315> INFO - Logfile is 'work.blg'
-[58] biber:330> INFO - === Sun May  9, 2021, 01:57:20
-[69] Biber.pm:415> INFO - Reading 'work.bcf'
-[121] Biber.pm:952> INFO - Found 6 citekeys in bib section 0
-[131] Biber.pm:4334> INFO - Processing section 0
-[139] Biber.pm:4523> INFO - Looking for bibtex format file 'references.bib' for section 0
-[140] bibtex.pm:1682> INFO - LaTeX decoding ...
-[143] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
-[168] Biber.pm:4523> INFO - Looking for bibtex format file 'ai_citations.bib' for section 0
-[169] bibtex.pm:1682> INFO - LaTeX decoding ...
-[185] bibtex.pm:1494> INFO - Found BibTeX data source 'ai_citations.bib'
-[186] Utils.pm:395> WARN - Duplicate entry key: 'silver2017mastering' in file 'ai_citations.bib', skipping ...
-[189] Utils.pm:395> WARN - month field 'Sep' in entry 'Watson2019' is not an integer - this will probably not sort properly.
-[224] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[224] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[224] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[224] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
-[231] bbl.pm:651> INFO - Writing 'work.bbl' with encoding 'UTF-8'
-[235] bbl.pm:754> INFO - Output to work.bbl
-[235] Biber.pm:128> INFO - WARNINGS: 2
+[59] biber:330> INFO - === Sun May  9, 2021, 07:16:26
+[71] Biber.pm:415> INFO - Reading 'work.bcf'
+[122] Biber.pm:952> INFO - Found 10 citekeys in bib section 0
+[133] Biber.pm:4334> INFO - Processing section 0
+[140] Biber.pm:4523> INFO - Looking for bibtex format file 'references.bib' for section 0
+[141] bibtex.pm:1682> INFO - LaTeX decoding ...
+[144] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
+[166] Biber.pm:4523> INFO - Looking for bibtex format file 'ai_citations.bib' for section 0
+[168] bibtex.pm:1682> INFO - LaTeX decoding ...
+[189] bibtex.pm:1494> INFO - Found BibTeX data source 'ai_citations.bib'
+[190] Utils.pm:395> WARN - Duplicate entry key: 'silver2017mastering' in file 'ai_citations.bib', skipping ...
+[199] Utils.pm:395> WARN - month field 'Sep' in entry 'Watson2019' is not an integer - this will probably not sort properly.
+[252] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[252] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[252] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[253] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[260] bbl.pm:651> INFO - Writing 'work.bbl' with encoding 'UTF-8'
+[267] bbl.pm:754> INFO - Output to work.bbl
+[267] Biber.pm:128> INFO - WARNINGS: 2
