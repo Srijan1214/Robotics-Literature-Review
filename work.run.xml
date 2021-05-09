@@ -85,6 +85,7 @@
     <requires type="editable">
       <file>references.bib</file>
       <file>ai_citations.bib</file>
+      <file>prerak.bib</file>
     </requires>
   </external>
 </requests>

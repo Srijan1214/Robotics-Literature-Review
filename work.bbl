@@ -452,6 +452,550 @@
       \field{pages}{1115\bibrangedash 1120}
       \range{pages}{6}
     \endentry
+    \entry{1martinezdevelopment}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ddfd9aead032c541e0572903d4e85886}{%
+           family={Martinez},
+           familyi={M\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c97cb9c2eee8fbdc1af0db98449e96d1}{%
+           family={Garcia-Haro},
+           familyi={G\bibinithyphendelim H\bibinitperiod},
+           given={Juan\bibnamedelima Miguel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5549f596fd90a64f26da5144c6fb8157}{%
+           family={Monje},
+           familyi={M\bibinitperiod},
+           given={Concepcion\bibnamedelima Alicia},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e5d62d6dbef14b885efced8a569cd7fb}{%
+           family={Balaguer},
+           familyi={B\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8649cd24bbf8e18be3daa480a2cf7a0}
+      \strng{fullhash}{38edc7115c11ad6a484dde0e77ecc663}
+      \strng{bibnamehash}{38edc7115c11ad6a484dde0e77ecc663}
+      \strng{authorbibnamehash}{38edc7115c11ad6a484dde0e77ecc663}
+      \strng{authornamehash}{b8649cd24bbf8e18be3daa480a2cf7a0}
+      \strng{authorfullhash}{38edc7115c11ad6a484dde0e77ecc663}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Development of Applications for Humanoid Robots Using Multiple Platforms, Tools, and Cloud Data Sharing}
+    \endentry
+    \entry{2bakken2001middleware}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=233ad143a7e2660e356ac33b4ced64b1}{%
+           family={Bakken},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=349d5204a2402b1d5757b39bfe962661}{%
+           family={Zhan},
+           familyi={Z\bibinitperiod},
+           given={Zhiyuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=6c3c30a9b01356e8fb1e0e6c6a0dd40f}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Christopher\bibnamedelima C},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=330f3e82969693f667890ea0df706b09}{%
+           family={Karr},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{d73454f592c137970f8164269dcd4022}
+      \strng{fullhash}{a0a91a3b9e6cb2134155559ffafb688a}
+      \strng{bibnamehash}{a0a91a3b9e6cb2134155559ffafb688a}
+      \strng{authorbibnamehash}{a0a91a3b9e6cb2134155559ffafb688a}
+      \strng{authornamehash}{d73454f592c137970f8164269dcd4022}
+      \strng{authorfullhash}{a0a91a3b9e6cb2134155559ffafb688a}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2001 International Conference on Dependable Systems and Networks}
+      \field{title}{Middleware support for voting and data fusion}
+      \field{year}{2001}
+      \field{pages}{453\bibrangedash 462}
+      \range{pages}{10}
+    \endentry
+    \entry{3bogue2017cloud}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dbeaf307b881f7d8bd0c4f5b25acbaa6}{%
+           family={Bogue},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Publishing Limited}%
+      }
+      \strng{namehash}{dbeaf307b881f7d8bd0c4f5b25acbaa6}
+      \strng{fullhash}{dbeaf307b881f7d8bd0c4f5b25acbaa6}
+      \strng{bibnamehash}{dbeaf307b881f7d8bd0c4f5b25acbaa6}
+      \strng{authorbibnamehash}{dbeaf307b881f7d8bd0c4f5b25acbaa6}
+      \strng{authornamehash}{dbeaf307b881f7d8bd0c4f5b25acbaa6}
+      \strng{authorfullhash}{dbeaf307b881f7d8bd0c4f5b25acbaa6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Robot: An International Journal}
+      \field{title}{Cloud robotics: a review of technologies, developments and applications}
+      \field{year}{2017}
+    \endentry
+    \entry{13wan2016cloud}{article}{}
+      \name{author}{6}{}{%
+        {{hash=75916034f60ced983937f039403ca17f}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Jiafu},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ce2040bb4707c2b58536c25ddd5b30a9}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Shenglong},
+           giveni={S\bibinitperiod}}}%
+        {{hash=630ac321942a1fe2b64586346a1f9271}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Hehua},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e16c2dbc9de83b1e4abe905d2b6d3045}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Di},
+           giveni={D\bibinitperiod}}}%
+        {{hash=68cbe4d4923daeeff7af0f116e45625e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shiyong},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4d9fbc50e12486f11ef599cf2f3ffe11}{%
+           family={Vasilakos},
+           familyi={V\bibinitperiod},
+           given={Athanasios\bibnamedelima V},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{82d05018e31fbdac6fceb54f250a8c04}
+      \strng{fullhash}{850aad22a14261beb18b89e9aec5be50}
+      \strng{bibnamehash}{850aad22a14261beb18b89e9aec5be50}
+      \strng{authorbibnamehash}{850aad22a14261beb18b89e9aec5be50}
+      \strng{authornamehash}{82d05018e31fbdac6fceb54f250a8c04}
+      \strng{authorfullhash}{850aad22a14261beb18b89e9aec5be50}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Cloud robotics: Current status and open issues}
+      \field{volume}{4}
+      \field{year}{2016}
+      \field{pages}{2797\bibrangedash 2807}
+      \range{pages}{11}
+    \endentry
+    \entry{4demaitre_demaitre_2020}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=b1d9f16646000029c111f22c0edbb5fa}{%
+           family={Demaitre},
+           familyi={D\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b1d9f16646000029c111f22c0edbb5fa}{%
+           family={Demaitre},
+           familyi={D\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1c5d866a634f73b739f38ae46e0ae27}
+      \strng{fullhash}{c1c5d866a634f73b739f38ae46e0ae27}
+      \strng{bibnamehash}{c1c5d866a634f73b739f38ae46e0ae27}
+      \strng{authorbibnamehash}{c1c5d866a634f73b739f38ae46e0ae27}
+      \strng{authornamehash}{c1c5d866a634f73b739f38ae46e0ae27}
+      \strng{authorfullhash}{c1c5d866a634f73b739f38ae46e0ae27}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Robot Report}
+      \field{month}{10}
+      \field{title}{CloudMinds demoes XR-1 humanoid robot using 5G, scales up for fleets}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.therobotreport.com/cloudminds-demoes-xr-1-humanoid-robot-using-5g-scales-up-for-fleets/
+      \endverb
+      \verb{url}
+      \verb https://www.therobotreport.com/cloudminds-demoes-xr-1-humanoid-robot-using-5g-scales-up-for-fleets/
+      \endverb
+    \endentry
+    \entry{5saeedvand2019comprehensive}{article}{}
+      \name{author}{4}{}{%
+        {{hash=604524340c1df771baa333888c9054aa}{%
+           family={Saeedvand},
+           familyi={S\bibinitperiod},
+           given={Saeed},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5c578dbc9b0bec666bff33eb3e754a7d}{%
+           family={Jafari},
+           familyi={J\bibinitperiod},
+           given={Masoumeh},
+           giveni={M\bibinitperiod}}}%
+        {{hash=48912135f7249f6d20265af0c8c319ad}{%
+           family={Aghdasi},
+           familyi={A\bibinitperiod},
+           given={Hadi\bibnamedelima S},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=c8d49d922bb8cb8b0b192e1240fb4f89}{%
+           family={Baltes},
+           familyi={B\bibinitperiod},
+           given={Jacky},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1a0ecee461c3f697d8cb8464fe9679f4}
+      \strng{fullhash}{772c64989bd5339ae12f73c0b5fc71bb}
+      \strng{bibnamehash}{772c64989bd5339ae12f73c0b5fc71bb}
+      \strng{authorbibnamehash}{772c64989bd5339ae12f73c0b5fc71bb}
+      \strng{authornamehash}{1a0ecee461c3f697d8cb8464fe9679f4}
+      \strng{authorfullhash}{772c64989bd5339ae12f73c0b5fc71bb}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Knowledge Engineering Review}
+      \field{title}{A comprehensive survey on humanoid robot development}
+      \field{volume}{34}
+      \field{year}{2019}
+    \endentry
+    \entry{6silva2007historical}{article}{}
+      \name{author}{2}{}{%
+        {{hash=28cadf0aa84e0a2b7b2d2a7ab6f589ff}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Manuel\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=eeae2f67f5054c059d021e271b4e61c4}{%
+           family={Tenreiro\bibnamedelima Machado},
+           familyi={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={JA},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{fc3de79354b2bbd18d951a5e2b48f49d}
+      \strng{fullhash}{fc3de79354b2bbd18d951a5e2b48f49d}
+      \strng{bibnamehash}{fc3de79354b2bbd18d951a5e2b48f49d}
+      \strng{authorbibnamehash}{fc3de79354b2bbd18d951a5e2b48f49d}
+      \strng{authornamehash}{fc3de79354b2bbd18d951a5e2b48f49d}
+      \strng{authorfullhash}{fc3de79354b2bbd18d951a5e2b48f49d}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Vibration and Control}
+      \field{number}{9-10}
+      \field{title}{A historical perspective of legged robots}
+      \field{volume}{13}
+      \field{year}{2007}
+      \field{pages}{1447\bibrangedash 1486}
+      \range{pages}{40}
+    \endentry
+    \entry{6al2014modeling}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a97413604d301692c9fa197c0ebfed84}{%
+           family={Al-Shuka},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Hayder\bibnamedelima FN},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=6e58a25be780494f14bcc00149a42a24}{%
+           family={Allmendinger},
+           familyi={A\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e67a8122b799fdf450be3aadceedce44}{%
+           family={Corves},
+           familyi={C\bibinitperiod},
+           given={Burkhard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=859168060bb6a1880136d2e5dcaabddf}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Wen-Hong},
+           giveni={W\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{728a46604a6cda40d3797cc65479ade3}
+      \strng{fullhash}{4c29670452ceda69f89e0ecb2aa0080f}
+      \strng{bibnamehash}{4c29670452ceda69f89e0ecb2aa0080f}
+      \strng{authorbibnamehash}{4c29670452ceda69f89e0ecb2aa0080f}
+      \strng{authornamehash}{728a46604a6cda40d3797cc65479ade3}
+      \strng{authorfullhash}{4c29670452ceda69f89e0ecb2aa0080f}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Robotica}
+      \field{number}{6}
+      \field{title}{Modeling, stability and walking pattern generators of biped robots: a review}
+      \field{volume}{32}
+      \field{year}{2014}
+      \field{pages}{907}
+      \range{pages}{1}
+    \endentry
+    \entry{7mejias2017easy}{article}{}
+      \name{author}{6}{}{%
+        {{hash=203798da9d9462460c9d25a538d9463b}{%
+           family={Mejias},
+           familyi={M\bibinitperiod},
+           given={Andres},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ae4b9a8b0caf7f5793bf36cc9d9d9641}{%
+           family={Herrera},
+           familyi={H\bibinitperiod},
+           given={Reyes\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=878830931c94c1a091ea755c5d15ae10}{%
+           family={Marquez},
+           familyi={M\bibinitperiod},
+           given={Marco\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=191c602a7b8319428a4b1e8f34e5e269}{%
+           family={Calderon},
+           familyi={C\bibinitperiod},
+           given={Antonio\bibnamedelima Jose},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0e5cd3a1c84f9797c5eb586d053814fe}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Isaias},
+           giveni={I\bibinitperiod}}}%
+        {{hash=7552741e883661f77248a03a4e486af3}{%
+           family={Andujar},
+           familyi={A\bibinitperiod},
+           given={Jose\bibnamedelima Manuel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{a467bf9d276584662991d524f5a18047}
+      \strng{fullhash}{122c09072d14663e46c6e854a5077fc7}
+      \strng{bibnamehash}{122c09072d14663e46c6e854a5077fc7}
+      \strng{authorbibnamehash}{122c09072d14663e46c6e854a5077fc7}
+      \strng{authornamehash}{a467bf9d276584662991d524f5a18047}
+      \strng{authorfullhash}{122c09072d14663e46c6e854a5077fc7}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{1}
+      \field{title}{Easy handling of sensors and actuators over TCP/IP networks by open source hardware/software}
+      \field{volume}{17}
+      \field{year}{2017}
+      \field{pages}{94}
+      \range{pages}{1}
+    \endentry
+    \entry{9almubarak2017design}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=d08e6c48e20287d6af56a6d1a8a6a6d2}{%
+           family={Almubarak},
+           familyi={A\bibinitperiod},
+           given={Yara},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=dcd30770b1688a08d519c1cb355e7dc3}{%
+           family={Tadesse},
+           familyi={T\bibinitperiod},
+           given={Yonas},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{organization}{2}{%
+        {International Society for Optics}%
+        {Photonics}%
+      }
+      \strng{namehash}{a92afd9cda8bfd36568f556ae48e6702}
+      \strng{fullhash}{a92afd9cda8bfd36568f556ae48e6702}
+      \strng{bibnamehash}{a92afd9cda8bfd36568f556ae48e6702}
+      \strng{authorbibnamehash}{a92afd9cda8bfd36568f556ae48e6702}
+      \strng{authornamehash}{a92afd9cda8bfd36568f556ae48e6702}
+      \strng{authorfullhash}{a92afd9cda8bfd36568f556ae48e6702}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Electroactive Polymer Actuators and Devices (EAPAD) 2017}
+      \field{title}{Design and motion control of bioinspired humanoid robot head from servo motors toward artificial muscles}
+      \field{volume}{10163}
+      \field{year}{2017}
+      \field{pages}{101631U}
+      \range{pages}{-1}
+    \endentry
+    \entry{8al2012development}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=6a50e23c97d7adfbe19a913df3a838bf}{%
+           family={Al-Busaidi},
+           familyi={A\bibinithyphendelim B\bibinitperiod},
+           given={Asiya\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6a50e23c97d7adfbe19a913df3a838bf}
+      \strng{fullhash}{6a50e23c97d7adfbe19a913df3a838bf}
+      \strng{bibnamehash}{6a50e23c97d7adfbe19a913df3a838bf}
+      \strng{authorbibnamehash}{6a50e23c97d7adfbe19a913df3a838bf}
+      \strng{authornamehash}{6a50e23c97d7adfbe19a913df3a838bf}
+      \strng{authorfullhash}{6a50e23c97d7adfbe19a913df3a838bf}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 9th France-Japan \& 7th Europe-Asia Congress on Mechatronics (MECATRONICS)/13th Int'l Workshop on Research and Education in Mechatronics (REM)}
+      \field{title}{Development of an educational environment for online control of a biped robot using MATLAB and Arduino}
+      \field{year}{2012}
+      \field{pages}{337\bibrangedash 344}
+      \range{pages}{8}
+    \endentry
+    \entry{10khokar2015implementation}{article}{}
+      \name{author}{3}{}{%
+        {{hash=525822dda39a806eec525f83673f3b20}{%
+           family={Khokar},
+           familyi={K\bibinitperiod},
+           given={Karan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a6abbb19fc851ee399cd6dde2fdfae62}{%
+           family={Beeson},
+           familyi={B\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=486050b730cb4e94bc6b4a470899d2dc}{%
+           family={Burridge},
+           familyi={B\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{72ce5849f27df16a26a0042100670538}
+      \strng{fullhash}{72ce5849f27df16a26a0042100670538}
+      \strng{bibnamehash}{72ce5849f27df16a26a0042100670538}
+      \strng{authorbibnamehash}{72ce5849f27df16a26a0042100670538}
+      \strng{authornamehash}{72ce5849f27df16a26a0042100670538}
+      \strng{authorfullhash}{72ce5849f27df16a26a0042100670538}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{Implementation of KDL inverse kinematics routine on the atlas humanoid robot}
+      \field{volume}{46}
+      \field{year}{2015}
+      \field{pages}{1441\bibrangedash 1448}
+      \range{pages}{8}
+    \endentry
+    \entry{11cho2011online}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cab8410ae6a30d04555b5eb5c99b8015}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Baek-Kyu},
+           giveni={B\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=756bebb6e623ca972e5307cd60b53484}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jung-Hoon},
+           giveni={J\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=5abb61303d49b975276e7535314872b9}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={Jun-Ho},
+           giveni={J\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{f23af0a30621d10d722b2562fe8e0d5f}
+      \strng{fullhash}{f23af0a30621d10d722b2562fe8e0d5f}
+      \strng{bibnamehash}{f23af0a30621d10d722b2562fe8e0d5f}
+      \strng{authorbibnamehash}{f23af0a30621d10d722b2562fe8e0d5f}
+      \strng{authornamehash}{f23af0a30621d10d722b2562fe8e0d5f}
+      \strng{authorfullhash}{f23af0a30621d10d722b2562fe8e0d5f}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Robotics}
+      \field{number}{9-10}
+      \field{title}{Online balance controllers for a hopping and running humanoid robot}
+      \field{volume}{25}
+      \field{year}{2011}
+      \field{pages}{1209\bibrangedash 1225}
+      \range{pages}{17}
+    \endentry
+    \entry{12wang2012optimizing}{article}{}
+      \name{author}{4}{}{%
+        {{hash=225561636d0ac4fcf69db9643e1f5309}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jack\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=aa802d5a4e5ec759557313ed80dd0f0d}{%
+           family={Hamner},
+           familyi={H\bibinitperiod},
+           given={Samuel\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=2612823af1df71c5b85f82df19e39fa3}{%
+           family={Delp},
+           familyi={D\bibinitperiod},
+           given={Scott\bibnamedelima L},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9025300f43a193cfed8e10e924f2a117}{%
+           family={Koltun},
+           familyi={K\bibinitperiod},
+           given={Vladlen},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{614de0a94ee7ca4d851274fb8a2d17f0}
+      \strng{fullhash}{8ecc993815cd814640fdee75bc8c9314}
+      \strng{bibnamehash}{8ecc993815cd814640fdee75bc8c9314}
+      \strng{authorbibnamehash}{8ecc993815cd814640fdee75bc8c9314}
+      \strng{authornamehash}{614de0a94ee7ca4d851274fb8a2d17f0}
+      \strng{authorfullhash}{8ecc993815cd814640fdee75bc8c9314}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Graphics (TOG)}
+      \field{number}{4}
+      \field{title}{Optimizing locomotion controllers using biologically-based actuators and objectives}
+      \field{volume}{31}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+    \endentry
     \entry{tsarouchi2016human}{article}{}
       \name{author}{3}{}{%
         {{hash=87433a42a7269c80aa6cfbd923da43fa}{%
@@ -479,8 +1023,8 @@
       \strng{authorbibnamehash}{65ce7724cab9e9859008b160d7782cc6}
       \strng{authornamehash}{65ce7724cab9e9859008b160d7782cc6}
       \strng{authorfullhash}{65ce7724cab9e9859008b160d7782cc6}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Computer Integrated Manufacturing}
@@ -508,8 +1052,8 @@
       \strng{authorbibnamehash}{e2257dbf6507d592cb5db08f26613f4c}
       \strng{authornamehash}{e2257dbf6507d592cb5db08f26613f4c}
       \strng{authorfullhash}{e2257dbf6507d592cb5db08f26613f4c}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Human factors}
@@ -584,8 +1128,8 @@
       \strng{authorbibnamehash}{3f026d623141fabaa39072a95e7b66d0}
       \strng{authornamehash}{91239b60eda9ba8e0c8bd776279d9b5b}
       \strng{authorfullhash}{3f026d623141fabaa39072a95e7b66d0}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science robotics}

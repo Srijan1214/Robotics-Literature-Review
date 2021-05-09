@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.7)  9 MAY 2021 18:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.7)  9 MAY 2021 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -536,20 +536,20 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 \@quotelevel=\count405
 \@quotereset=\count406
  (./work.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 -- Lines per column: 56 (exact).
 Package biblatex Info: Trying to load language 'english'...
@@ -563,8 +563,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'work.bbl' found.
  (./work.bbl)
-Package biblatex Info: Reference section=0 on input line 14.
-Package biblatex Info: Reference segment=0 on input line 14.
+Package biblatex Info: Reference section=0 on input line 15.
+Package biblatex Info: Reference segment=0 on input line 15.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -588,14 +588,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 33.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -603,40 +603,47 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]
-<images/evolution_of_hri.png, id=10, 1013.7875pt x 456.70625pt>
+] [2] [3]
+Underfull \hbox (badness 2042) in paragraph at lines 107--108
+ \OT1/ptm/m/it/10 4) Pro-cess-ing Units for Hu-manoid Robot: [][] \OT1/ptm/m/n/
+10 Hu-manoid
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 115--116
+ \OT1/ptm/m/it/10 6) Power Sup-ply for Hu-manoid Robot: [][] \OT1/ptm/m/n/10 Po
+rtable and
+ []
+
+<images/evolution_of_hri.png, id=17, 1013.7875pt x 456.70625pt>
 File: images/evolution_of_hri.png Graphic file (type png)
 <use images/evolution_of_hri.png>
-Package pdftex.def Info: images/evolution_of_hri.png  used on input line 68.
+Package pdftex.def Info: images/evolution_of_hri.png  used on input line 133.
 (pdftex.def)             Requested size: 258.0pt x 116.2251pt.
-<images/hri_total_number_of_publication.png, id=12, 1044.90375pt x 598.235pt>
+[4]
+<images/hri_total_number_of_publication.png, id=22, 1044.90375pt x 598.235pt>
 File: images/hri_total_number_of_publication.png Graphic file (type png)
 <use images/hri_total_number_of_publication.png>
 Package pdftex.def Info: images/hri_total_number_of_publication.png  used on in
-put line 74.
+put line 139.
 (pdftex.def)             Requested size: 258.0pt x 147.71446pt.
- [2 <./images/evolution_of_hri.png> <./images/hri_total_number_of_publication.p
-ng>]
-<images/grand_challenges.png, id=19, 1307.88625pt x 551.05875pt>
+<images/grand_challenges.png, id=23, 1307.88625pt x 551.05875pt>
 File: images/grand_challenges.png Graphic file (type png)
 <use images/grand_challenges.png>
-Package pdftex.def Info: images/grand_challenges.png  used on input line 90.
+Package pdftex.def Info: images/grand_challenges.png  used on input line 155.
 (pdftex.def)             Requested size: 258.0pt x 108.70467pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3 <./images/grand_challenges.png>]
-Underfull \hbox (badness 2173) in paragraph at lines 107--107
+ [5 <./images/evolution_of_hri.png> <./images/hri_total_number_of_publication.p
+ng> <./images/grand_challenges.png>] [6]
+Underfull \hbox (badness 2173) in paragraph at lines 174--174
 \OT1/ptm/m/n/10 robotics?'' \OT1/ptm/m/it/10 The Jour-nal of Eco-nomic Per-spec
 -tives\OT1/ptm/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 107--107
+Underfull \hbox (badness 5245) in paragraph at lines 174--174
 []\OT1/ptm/m/n/10 P. Tsarouchi, S. Makris, and G. Chrys-solouris,
  []
 
-[4]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -648,16 +655,14 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5
-
-] (./work.aux)
+[7] (./work.aux)
 Package logreq Info: Writing requests to 'work.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 11565 strings out of 479383
- 206415 string characters out of 5875831
- 917645 words of memory out of 5000000
- 28556 multiletter control sequences out of 15000+600000
+ 11599 strings out of 479383
+ 208014 string characters out of 5875831
+ 921934 words of memory out of 5000000
+ 28590 multiletter control sequences out of 15000+600000
  440935 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,73p,1857b,1958s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -666,10 +671,10 @@ ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/ti
 mes/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/s
 hare/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on work.pdf (5 pages, 546552 bytes).
+Output written on work.pdf (7 pages, 566098 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

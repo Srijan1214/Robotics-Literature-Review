@@ -4,6 +4,7 @@
 \usepackage[style=ieee, backend=biber]{biblatex}
 \addbibresource{references.bib}
 \addbibresource{ai_citations.bib}
+\addbibresource{prerak.bib}
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{algorithmic}
 \usepackage{graphicx}
@@ -63,6 +64,70 @@ Furthermore, the usage of GPU accelerated has greatly expedited the speed that a
 
 Also, not just the improvement in computational speed, but even the readily available semiconductors are a large cause for the development of modern robotics. It is much cheaper to get the necessary tools required to build a robot in 2021 than it was ten or twenty years ago. This has significantly contributed to the increase research works in intelligent robots.
 
+\section{Cloud Based Computing}
+\subsection{Introduction to System Development of a Humanoid Robot}
+As portrayed in the importance of emergence in the development of humanoid, artificially intelligent robots, it has always been desirable in the field, due to the complexity present in their research, to use the best platforms and tools to improve and develop algorithms that allow the code and tools to be reused to decrease the developmental effort required in the programming of these humanoid robot systems. A major roadblock in using these tools is the ability and time required to integrate these tools with existing systems and the incompatibility amongst the various software and tools used, as identified in the article by Martinez, Garcia-Haro, Monje, and Balaguer on the development of tools and applications for humanoid robots\autocite{1martinezdevelopment}. As defined by Bakken in 2001, in the robotics field, the main software environment that provides intercommunication and integration of tools is the middleware. This special kind of program was defined by Bakken as ``a class of software technologies designed to help to manage the complexity and heterogeneity inherent in distributed systems. It is defined as a layer of software above the operating system but below the application program that provides a common programming abstraction across a distributed system.''\autocite{2bakken2001middleware}
+
+\subsection{Cloud computing in Humanoid Robot Development and Cloud Robotics}
+\subsubsection{Introduction}
+The term "cloud robotics" was coined in 2010 by James Kuffner, then at Carnegie Mellon University. The concept can be viewed as robots that are wirelessly linked to, and rely on, one or more computers in a remote location to support or facilitate certain aspects of its operation, i.e. where not all of the computation power, software, or memory is integrated into the robot\autocite{3bogue2017cloud}. The exploration of cloud computing and its use in cloud robotics is a topic surfacing to interest in recent years, however, research on the idea of using a "remote brain" on a robot has carried out from as early as the 1990s, when Masayuki Inaba, professor at the University of Tokyo explored this concept of remote brains, which he termed himself and this involved physically separating the robotic hardware from high-level reasoning software in a remote computer (Inaba, 1993). Now, cloud robotics technology seeks to build on that concept by exploiting the inexpensive computing power and massive data storage capacity of cloud computing systems, combined with the ubiquitous net connectivity available currently\autocite{3bogue2017cloud}. Below is a figure of the cloud configuration of a leading Cloud Robotics company, RoboEarth\autocite{13wan2016cloud}.
+
+\subsubsection{Application and Developments of Cloud Computing on Humanoid Robots}
+With the advancement in data storage, management, and manipulation through cloud computing, The ability to access huge data sets, massive computational power and all manner of APIs is of potential benefit to most classes of robots, as mentioned by Bogue in his journal on cloud robotics\autocite{3bogue2017cloud}. The application of cloud technologies has been proposed for the development of many mobile/autonomous robotic vehicles, surgical, household, and military robots. It has also been recognized that humanoid robots are prime applicants for cloud computing. The aim of many humanoids is to interact with humans through speech but natural language processing, i.e. the ability to understand the subtleties of context and meaning, poses a huge technological challenge and requires massive and power-hungry signal processing, something that cannot realistically be incorporated into a small humanoid robot. Accordingly, in most cases at present, a humanoid robot's speech patterns are still limited to a range of stilted, programmed responses that are usually based on trigger words and pre-set behavior\autocite{3bogue2017cloud}. These limitations are changing – and are on the verge of mitigation with the application of cloud computing.
+
+\subsubsection{Implementation}
+In October 2019, CloudMinds Technology Inc., one of the world's leading cloud robot and services company, demoed their humanoid service robots at the Mobile World Congress in Los Angeles, which is described as the first humanoid robot in the United States to use cloud-based AI and 5G connectivity. The service robot, named XR-1, implements a cloud-first approach to robotics and artificial intelligence development, as according to CloudMinds, for service robots to be truly useful, they need artificial intelligence running on the cloud accessible over 5G networks, and to ensure minimal latency\autocite{4demaitre_demaitre_2020}.
+
+As another example, Ericsson, the Swedish telecoms giant, is looking into the cloud robotic possibilities presented by the upcoming 5G network. In addition to faster speeds, 5G can meet the demands of modern and evolving technologies such as the Internet of Things, allowing for higher numbers of concurrently connected devices, lower latency, and new levels of reliability, making it suitable for cloud computing. Manufacturing, agriculture, factories, and health care are among the possible applications listed by Ericsson. Mobile cloud robot prototypes have already been demonstrated in a simulated space, transferring materials between work-cells and a warehouse (Figure 7). A laser rangefinder was used for navigation, and a webcam was used for pattern recognition. The trials began with a learning process, during which the laser rangefinder produced a map of the working area that was later used by the robot for localization\autocite{3bogue2017cloud}
+
+\subsubsection{Limitations}
+Though cloud computing can provide many advantages that humanoid robots can benefit from, however, there are also limitations to its use in different circumstances. Some of these limitations to cloud computation in development of humanoid robots are listed below:
+\begin{itemize}
+\item{} Controlling a robot's motion, which is heavily reliant on (real-time) sensors and controller feedback, cannot benefit greatly from cloud computing as latency might cause implications in time sensitive tasks. For example, if a humanoid robots are used in explosive defusal tasks, the latency of a fraction of a second to determine whether task is successful or not.
+\item{} Too much reliability of the humanoid robot on the cloud could result in the robot malfunctioning or unable to function due to a fault in the cloud network.
+\item{} Heavier reliance on cloud computing also exposes the robot system to remote security threats. A significant cloud sharing environment for a robot is often a target for malwares, brute force attacks and virtual machine attacks.
+\end{itemize}
+Cloud robotics technology is rapidly maturing, as shown by the advances and applications described above. More than two decades have passed since Inaba's seminal publication on the use of a “remote brain”, during which time technical advancements have accelerated at an unparalleled pace. Developments in several fields of artificial intelligence, especially pattern recognition and natural language processing, will invariably improve the capabilities of cloud robots. Even though cloud robotics is still in its beginnings, it is not hard to anticipate that in the future, almost all robots will be connected to cloud-based computer systems.
+\subsection{Navigation}
+\subsubsection{Motion in Humanoid Robots}
+Existing humanoid robots are currently planned for a variety of purposes and applications. Each humanoid robot is built with unique characteristics, skills, and equipment, all of which affect the overall structure, expense, and complexity of production. Humanoid robots in most examples use bipedal locomotion and have a humanoid appearance. Existing humanoid robots have a variety of capabilities, making them one of the most versatile robots in a variety of applications such as education, assisting, entertainment and tasks physically difficult and risky for human such as rescues.
+
+As stated by Saeed Saeedvand and authors in their scholarly journal on humanoid robot development, most of the humanoid robots are generally able to walk bipedally in different environments with different abilities, with more recent developments including the ability of humanoid robots to walk stably on flat grounds, grass, and also uneven environments\autocite{5saeedvand2019comprehensive}. Humanoid robots with a bipedal locomotion system offer different advantages over wheeled robots. Bipedal robots are more suitable for navigating in a complex workplace, and they are more adaptable\autocite{6silva2007historical}\autocite{6al2014modeling}. Due to the difference in the task and abilities of a robot, navigation is based on specifically designed parts for the robot, which is challenging and requires a comprehensive study of the different parts and functionalities that make up the humanoid robot. Thus, navigation is based on both the hardware design and the software implementation used during the development of the robot. The software and hardware developmental aspects of a humanoid robot are further studied below.
+
+\subsubsection{Hardware architecture and configuration for Navigation}
+The mechanical design of humanoid robots is the most important aspect of their creation. The architecture of humanoid robots' mechanical structure and kinematics has been influenced by human structure and kinematics.
+Each joint of a humanoid robot has some parameters that determine the state of a physical system, such as the degrees of freedom (DOF). The total number of independent displacements or aspects of motion is equal to the number of robot’s DOF. A humanoid robot includes torso, hip, head, neck, two arms, hands, legs, and feet, and each joint in a humanoid robot can be rotated in three orthogonal axes in maximum as roll, pitch, and yaw\autocite{5saeedvand2019comprehensive}.
+
+There are different hardware components required to allow movement of a humanoid robot arm, with respect to the tasks required to be done and the features the robot system will provide, they are as follows:
+
+\subsubsection{Actuators for Humanoid Robots}
+Different types of joint types have been established in the last century, based on the importance of the control system on humanoid robot locomotion and its relationship to the robot's joints and corresponding actuators (e.g., linear, revolute, sliding, or spherical). In several structures, spherical joints are one of the most common joint types. Hydraulic, pneumatic, or linear electric actuators are often used in spherical joints. The majority of revolute joints are electrically driven by stepper motors or servo motors, despite the fact that hydraulic and pneumatic rotary joints are common. However, spherical joints have multiple degrees of freedom, thus is more complex to control.
+
+\subsubsection{Processing Units for Humanoid Robot}
+ Humanoid robots have one or more processing units in addition to their mechanical structure. In general, the electronic components used in humanoid robots are chosen based on the target application, such as whether the robot is autonomous or remote, the robot's missions, the cost of relevant components, and so on. Commercial controlling boards are used widely in addition to hand-made controlling boards. Raspberry Pi boards\autocite{7mejias2017easy} , ARM-based boards \autocite{9almubarak2017design}, compatible Arduino boards \autocite{8al2012development}, or off-board computing controls\autocite{10khokar2015implementation} are all examples of this.
+
+ \subsubsection{Sensors for Humanoid Robot}
+There are several experiments that have been conducted in order to improve robot interactions in the environment and achieve powerful sensors. Nonetheless, robot sensing systems are still restricted, and achieving a human-like sensing system can seem impractical\autocite{5saeedvand2019comprehensive}. Camera sensors, pressure sensors, laser scanners, and inertial measuring units (IMUs) are all popular sensors used in humanoid robots.
+
+The IMU is the most significant sensor in humanoid robots because of their bipedal configuration. An IMU is a sensor that uses a combination of accelerometers, gyroscopes, and magnetometers to calculate and record a body's specific force, angular rate, and the magnetic field surrounding it. On humanoid robots, the IMU usually is attached to the upper body and measures the angles and angular velocities against the ground in sagittal and frontal planes\autocite{11cho2011online}. The produced data from IMUs firstly are arranged through filtering algorithms, then walk engines are used for development\autocite{5saeedvand2019comprehensive}.
+
+\subsubsection{Power Supply for Humanoid Robot}
+Portable and rechargeable battery packs are typically used to power a bipedal humanoid robot. Portable generators are also used in some situations. Rechargeable batteries come in a variety of shapes and sizes, and they are often used in mobile robots. Li-PO batteries are the most popular battery type on humanoid robots (lithium-polymer) with advantages of higher energy density, safe performance, high discharge rate, and withstanding high frequency charging cycles\autocite{5saeedvand2019comprehensive}.
+
+\subsection{Software Architecture and Configuration for navigation}
+The Robot Operating System (ROS) was created to address the issue of diversity and to provide unification as well as a faster implementation process\autocite{5saeedvand2019comprehensive}. ROS is a collection of software libraries and resources that enable researchers to create robot applications.
+The general software aspects to allow movement and navigation, most common in use in humanoid robots, are as follows:
+
+\subsubsection{vision}
+The camera is one of the most important sensors for perception. Real-time robot vision algorithms are also needed to extract information from the captured images. Monocular and stereo vision devices are used for humanoid robots. It is well accepted that a monocular vision system cannot provide accurate information about the environment because of its linearity, which creates a motion pattern without complete observations. A stereo vision system consists of two cameras usually equipped with a controller module for stereo processing. Using the stereo vision system can enable the robot to measure the distance of objects, to detect the floor, and to generate a path for walking around obstacles\autocite{5saeedvand2019comprehensive}.
+
+\subsubsection{Walk (locomotion) control}
+A humanoid robot should be able to walk omnidirectionally and at various speeds on various surfaces. The aim of omnidirectional walking is to provide a robot with dependable, flexible, and dynamic locomotion. However, omnidirectional walk regulation can be difficult in certain situations and harsh conditions. For example, in disaster rescue scenarios, robots must be able to walk around obstacles and along narrow paths.
+To create the stability required in the system to enable humanoid robot movement and navigation, the primary criterion to be processed in the robot’s center of mass (COM) and center of pressure (COP) and is stable if these centers fall in the vertical column created by the area of the base\autocite{12wang2012optimizing}. The secondary criterion is the quasi-dynamic walking, based on the concept of zero moment point, which is a point on the ground where the results of the reaction forces on the ground act.
+
+\subsubsection{Behavior control}
+Due to the wide range of applications, path planning and navigation in autonomous humanoid robots is a promising research area. In humanoid robots, behavior control primarily consists of path planning, which is the process of determining the best sequence of actions that will enable the robot to walk from its starting point to its destination without colliding with obstacles. Several strong artificial intelligence techniques have been proposed to solve route planning and navigation of humanoid robots in complex environments, there is yet to be a fully suitable solution.
+
 \section{Human-Robot Interactions}
 \begin{figure}[h]
     \centerline{\includegraphics[width=0.5\textwidth]{images/evolution_of_hri.png}}
@@ -86,7 +151,7 @@ Human-robot interaction is an expanding field with hundreds of publications bein
 
 
 \section{Major Contemporary Challenges}
-\begin{figure}[h]
+\begin{figure}
     \centerline{\includegraphics[width=0.5\textwidth]{images/grand_challenges.png}}
     \caption{Figure showcasing the challenges big challenges to modern robotics. Figure gotten from\autocite{yang2018grand}}
 \label{fig3}
@@ -103,6 +168,8 @@ In the paper "The grand challenges of Science Robotics", the authors \textcite{y
 \item \textbf{Ethics and security:} With increasing levels of autonomy and humanrobot interaction, there needs to be careful consideration of potential regulatory, ethical, and legal barriers and the context of how robots are deployed. Technologies like STARRA are projected become more and more commonplace in the workforce. As such, there are many ethical question that comes up in regards to utilizing these machines as we progress to the future. The field of ethics and security is an important field for robotics and AI.
 \end{itemize}
 
-\newpage{}
+\section{Conclusion}
+Many robots will be put into application in our daily lives in the future; some, maybe many, will look and act like humans, but portraying and utilizing humanoid properties that provides a technical advantage over their more utilitarian counterparts is an implementation that is more complex to develop and maintain. With the growing size and significance of implementations and platforms particular to the development of humanoid robots, these complexities rise to create concerns in the performance of these robots, and even though complete solutions to fully mitigate these complexities do not and will not ideally exist, extensive growing research in the field almost promises a future where humans coexist with assisting humanoid robots.
+
 \printbibliography{}
 \end{document}
