@@ -2362,7 +2362,14 @@
     <bcf:citekey order="5">lin2020</bcf:citekey>
     <bcf:citekey order="6">lin2020</bcf:citekey>
     <bcf:citekey order="7">lin2020</bcf:citekey>
-    <bcf:citekey order="8">pratt2015cambrian</bcf:citekey>
+    <bcf:citekey order="8">krizhevsky2012imagenet</bcf:citekey>
+    <bcf:citekey order="9">krizhevsky2012imagenet</bcf:citekey>
+    <bcf:citekey order="10">pratt2015cambrian</bcf:citekey>
+    <bcf:citekey order="11">pratt2015cambrian</bcf:citekey>
+    <bcf:citekey order="12">hirschberg2015advances</bcf:citekey>
+    <bcf:citekey order="13">hirschberg2015advances</bcf:citekey>
+    <bcf:citekey order="14">hirschberg2015advances</bcf:citekey>
+    <bcf:citekey order="15">pratt2015cambrian</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

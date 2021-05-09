@@ -49,25 +49,12 @@ Humanoid robots are very popular in science fiction. There are many movies such 
 The human brain has the capability to recognize various patterns to function. As such, we would want an anthropomorphic robot to use mimic this useful ability. In the past decade much progress has been made in this area of robotics given the rapid expanse of artificial intelligence. One main impetus for progress in pattern recognition is the rise of GPU accelerated machine learning techniques. One popular technique on the rise for pattern recognition is reinforcement learning where an agent uses many types of reinforcement learning which tries to maximize some sort of reward function for the agent. This sort of approach utilities mathematical models that uses. One common type of machine learning model used in robotics is the artificial neural network. However, though these have been proved to be very useful and though their distributed nature is similar to natural neural networks, their name itself is misleading because they have flaws like being brittle, inefficient, and myopic\autocite{Watson2019}. Though there are many projects that have used artificial neural networks to achieve very anthropomorphic results. One such project is famous alpha go project that used artificial neural networks to create an AI that beat Lee Sedol in a 6 game match against alpha go\autocite{silver2017mastering}. In that project, the neural network was initially trained using human game datasets and was then later trained using dataset of its own games\autocite{silver2017mastering}. Another project that was inspired from this project was a table tennis playing robot by \textcite{lin2020}. In that project, \textcite{lin2020} used Deep Neural Networks to handle parameters such as air resistance, the magnus effect, etc., and trained the said network using real life game simulations.
 
 \subsection{Computer Vision}
-One of the key driving factors of modern artificial intelligence is the progress that we have made in computer vision in the past decade.
+One of the key driving factors of modern artificial intelligence is the progress that we have made in computer vision in the past decade. Computer vision is the field of artificial intelligence that deals with computers interpreting the visual world. During the 1990s, there was not much progress made in this field. However, ever since \textcite{krizhevsky2012imagenet} published their paper on Alexnet and demonstrated their groundbreaking result on image classification using CNNs and GPU accelerated deep learning, there has been a boom in the future papers utilizing such tools. Robots now are capable of performing various forms of vision tasks that they were previously unable to perform. Because this boom in computer vision is so big, \textcite{pratt2015cambrian} even calls it the possible ``robotics cambrian explosion'' because this phenomenon of robotic achieving vision is just like the era when there was an exponential increase in evolutionary diversity largely caused by the natural creatures gaining vision. 
+
+\subsection{Natural Language Processing}
+Another area of artificial intelligence that is engendering anthropomorphic robots is the area of natural language processing. We as human beings have the most complex systems of utilizing natural sounds among any living creatures. We can form several different patterns and use sounds in complex ways to convey and understand information. As such, we would expect humanoid robots to be capable of handling such languages. The area of natural language processing is a branch of artificial intelligence that deals with the interaction between machines and humans using the natural language. This field just like computer vision has grown very big. According to \textcite{hirschberg2015advances} the main reasons for this are (i) increase in computing power (ii) availability of large amounts of linguistic data (iii) success of machine learning (iv) richer understanding of the structure of human language and its deployments in social contexts. The big progress done in this subfield are in machine translation (translating one language to another), spoken dialog systems and conversational agents (agents generating and interpreting human voice; e.g. Google assistant, Apple's Siri) and machine reading (the ability to interpret human written texts)\autocite{hirschberg2015advances}.
 
 \subsection{\LaTeX-Specific Advice}
-
-Please use ``soft'' (e.g., \verb|\eqref{Eq}|) cross references instead
-of ``hard'' references (e.g., \verb|(1)|). That will make it possible
-to combine sections, add equations, or change the order of figures or
-citations without having to go through the file line by line.
-
-Please don't use the \verb|{eqnarray}| equation environment. Use
-\verb|{align}| or \verb|{IEEEeqnarray}| instead. The \verb|{eqnarray}|
-environment leaves unsightly spaces around relation symbols.
-
-Please note that the \verb|{subequations}| environment in {\LaTeX}
-will increment the main equation counter even when there are no
-equation numbers displayed. If you forget that, you might write an
-article in which the equation numbers skip from (17) to (20), causing
-the copy editors to wonder if you've discovered a new method of
-counting.
 
 {\BibTeX} does not work by magic. It doesn't get the bibliographic
 data from thin air but from .bib files. If you use {\BibTeX} to produce a
