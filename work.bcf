@@ -2375,13 +2375,21 @@
     <bcf:citekey order="18">waldrop2016chips</bcf:citekey>
     <bcf:citekey order="19">steinkraus2005using</bcf:citekey>
     <bcf:citekey order="20">krizhevsky2012imagenet</bcf:citekey>
-    <bcf:citekey order="21">yang2018grand</bcf:citekey>
-    <bcf:citekey order="22">yang2018grand</bcf:citekey>
-    <bcf:citekey order="23">yang2018grand</bcf:citekey>
-    <bcf:citekey order="24">yang2018grand</bcf:citekey>
-    <bcf:citekey order="25">yang2018grand</bcf:citekey>
-    <bcf:citekey order="26">yang2018grand</bcf:citekey>
-    <bcf:citekey order="27">pratt2015cambrian</bcf:citekey>
+    <bcf:citekey order="21">tsarouchi2016human</bcf:citekey>
+    <bcf:citekey order="22">tsarouchi2016human</bcf:citekey>
+    <bcf:citekey order="23">tsarouchi2016human</bcf:citekey>
+    <bcf:citekey order="24">tsarouchi2016human</bcf:citekey>
+    <bcf:citekey order="25">sheridan2016human</bcf:citekey>
+    <bcf:citekey order="26">sheridan2016human</bcf:citekey>
+    <bcf:citekey order="27">yang2018grand</bcf:citekey>
+    <bcf:citekey order="28">yang2018grand</bcf:citekey>
+    <bcf:citekey order="29">yang2018grand</bcf:citekey>
+    <bcf:citekey order="30">yang2018grand</bcf:citekey>
+    <bcf:citekey order="31">yang2018grand</bcf:citekey>
+    <bcf:citekey order="32">yang2018grand</bcf:citekey>
+    <bcf:citekey order="33">yang2018grand</bcf:citekey>
+    <bcf:citekey order="34">yang2018grand</bcf:citekey>
+    <bcf:citekey order="35">pratt2015cambrian</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

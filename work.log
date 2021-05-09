@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.7)  9 MAY 2021 09:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.7)  9 MAY 2021 10:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -535,7 +535,17 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 \@quotelevel=\count405
 \@quotereset=\count406
- (./work.aux)
+ (./work.aux
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
@@ -603,24 +613,47 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-] [2]
-<fig1.png, id=14, 82.1469pt x 71.5473pt>
+]
+<images/evolution_of_hri.png, id=10, 1013.7875pt x 456.70625pt>
+File: images/evolution_of_hri.png Graphic file (type png)
+<use images/evolution_of_hri.png>
+Package pdftex.def Info: images/evolution_of_hri.png  used on input line 64.
+(pdftex.def)             Requested size: 258.0pt x 116.2251pt.
+<images/hri_total_number_of_publication.png, id=12, 1044.90375pt x 598.235pt>
+File: images/hri_total_number_of_publication.png Graphic file (type png)
+<use images/hri_total_number_of_publication.png>
+Package pdftex.def Info: images/hri_total_number_of_publication.png  used on in
+put line 70.
+(pdftex.def)             Requested size: 258.0pt x 147.71446pt.
+<images/grand_challenges.png, id=13, 1307.88625pt x 551.05875pt>
+File: images/grand_challenges.png Graphic file (type png)
+<use images/grand_challenges.png>
+Package pdftex.def Info: images/grand_challenges.png  used on input line 80.
+(pdftex.def)             Requested size: 258.0pt x 108.70467pt.
+ [2 <./images/evolution_of_hri.png> <./images/hri_total_number_of_publication.p
+ng> <./images/grand_challenges.png>] [3]
+<fig1.png, id=24, 82.1469pt x 71.5473pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 130.
+Package pdftex.def Info: fig1.png  used on input line 151.
 (pdftex.def)             Requested size: 82.14668pt x 71.5471pt.
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
-42.
+63.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 142.
- [3 <./fig1.png (PNG copy)>]
-Underfull \hbox (badness 2173) in paragraph at lines 154--154
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 163.
+
+Underfull \hbox (badness 2173) in paragraph at lines 175--175
 \OT1/ptm/m/n/10 robotics?'' \OT1/ptm/m/it/10 The Jour-nal of Eco-nomic Per-spec
 -tives\OT1/ptm/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 175--175
+[]\OT1/ptm/m/n/10 P. Tsarouchi, S. Makris, and G. Chrys-solouris,
  []
 
 
@@ -634,19 +667,20 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4
+[4 <./fig1.png (PNG copy)>] (./work.aux)
 
-] (./work.aux)
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'work.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 11578 strings out of 479383
- 205922 string characters out of 5875831
- 919381 words of memory out of 5000000
- 28563 multiletter control sequences out of 15000+600000
+ 11601 strings out of 479383
+ 206743 string characters out of 5875831
+ 918556 words of memory out of 5000000
+ 28582 multiletter control sequences out of 15000+600000
  447050 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,11n,73p,1857b,1849s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,11n,73p,1857b,1958s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
@@ -654,10 +688,10 @@ sy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/
 share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/
 type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a
 .pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on work.pdf (4 pages, 104535 bytes).
+Output written on work.pdf (4 pages, 571985 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 58 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -377,6 +377,74 @@
       \field{pages}{1115\bibrangedash 1120}
       \range{pages}{6}
     \endentry
+    \entry{tsarouchi2016human}{article}{}
+      \name{author}{3}{}{%
+        {{hash=87433a42a7269c80aa6cfbd923da43fa}{%
+           family={Tsarouchi},
+           familyi={T\bibinitperiod},
+           given={Panagiota},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c48992e82230d80bc885762d33e0a50e}{%
+           family={Makris},
+           familyi={M\bibinitperiod},
+           given={Sotiris},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9a1d9a734ecac75171a7fd4f8671a2c0}{%
+           family={Chryssolouris},
+           familyi={C\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{65ce7724cab9e9859008b160d7782cc6}
+      \strng{fullhash}{65ce7724cab9e9859008b160d7782cc6}
+      \strng{bibnamehash}{65ce7724cab9e9859008b160d7782cc6}
+      \strng{authorbibnamehash}{65ce7724cab9e9859008b160d7782cc6}
+      \strng{authornamehash}{65ce7724cab9e9859008b160d7782cc6}
+      \strng{authorfullhash}{65ce7724cab9e9859008b160d7782cc6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Integrated Manufacturing}
+      \field{number}{8}
+      \field{title}{Human--robot interaction review and challenges on task planning and programming}
+      \field{volume}{29}
+      \field{year}{2016}
+      \field{pages}{916\bibrangedash 931}
+      \range{pages}{16}
+    \endentry
+    \entry{sheridan2016human}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e2257dbf6507d592cb5db08f26613f4c}{%
+           family={Sheridan},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima B},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{e2257dbf6507d592cb5db08f26613f4c}
+      \strng{fullhash}{e2257dbf6507d592cb5db08f26613f4c}
+      \strng{bibnamehash}{e2257dbf6507d592cb5db08f26613f4c}
+      \strng{authorbibnamehash}{e2257dbf6507d592cb5db08f26613f4c}
+      \strng{authornamehash}{e2257dbf6507d592cb5db08f26613f4c}
+      \strng{authorfullhash}{e2257dbf6507d592cb5db08f26613f4c}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human factors}
+      \field{number}{4}
+      \field{title}{Human--robot interaction: status and challenges}
+      \field{volume}{58}
+      \field{year}{2016}
+      \field{pages}{525\bibrangedash 532}
+      \range{pages}{8}
+    \endentry
     \entry{yang2018grand}{article}{}
       \true{moreauthor}
       \true{morelabelname}
