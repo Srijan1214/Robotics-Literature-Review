@@ -19,6 +19,159 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{Watson2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b1bf2c625bb9d6acc91f67ec6cd104b6}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{fullhash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{bibnamehash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{authorbibnamehash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{authornamehash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{authorfullhash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Artificial intelligence (AI) has historically been conceptualized in anthropomorphic terms. Some algorithms deploy biomimetic designs in a deliberate attempt to effect a sort of digital isomorphism of the human brain. Others leverage more general learning strategies that happen to coincide with popular theories of cognitive science and social epistemology. In this paper, I challenge the anthropomorphic credentials of the neural network algorithm, whose similarities to human cognition I argue are vastly overstated and narrowly construed. I submit that three alternative supervised learning methods---namely lasso penalties, bagging, and boosting---offer subtler, more interesting analogies to human reasoning as both an individual and a social phenomenon. Despite the temptation to fall back on anthropomorphic tropes when discussing AI, however, I conclude that such rhetoric is at best misleading and at worst downright dangerous. The impulse to humanize algorithms is an obstacle to properly conceptualizing the ethical challenges posed by emerging technologies.}
+      \field{issn}{1572-8641}
+      \field{journaltitle}{Minds and Machines}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{The Rhetoric and Reality of Anthropomorphism in Artificial Intelligence}
+      \field{volume}{29}
+      \field{year}{2019}
+      \field{pages}{417\bibrangedash 440}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1007/s11023-019-09506-6
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11023-019-09506-6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11023-019-09506-6
+      \endverb
+    \endentry
+    \entry{silver2017mastering}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=89dbd30410c2085cd059f32c57d4593e}{%
+           family={Silver},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8fad8df927bc0014c0bd6a9feb7aa71d}{%
+           family={Schrittwieser},
+           familyi={S\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9d16b7284df92c9adaee86c37ab992df}{%
+           family={Simonyan},
+           familyi={S\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=af540e84ef1ecdaa70b1f7c90f59fd7d}{%
+           family={Antonoglou},
+           familyi={A\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ba4b200ce1412a2570cb113366cc9559}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Aja},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4131bd14e5ca890278ecd351e356dc34}{%
+           family={Guez},
+           familyi={G\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=80c63e95a9e243591a33a7e3156f1d78}{%
+           family={Hubert},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fe79638c2bf15e9cd4021e09ca0fa07b}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f311ac3fec4a3d3207fdec17a9887704}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fa98d81082da72fd49892566108f9cbe}{%
+           family={Bolton},
+           familyi={B\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{aa8f31b3f7162abdeb9d74491161795f}
+      \strng{fullhash}{e4f449e4ce6b7a2977920c7f2dc1ae44}
+      \strng{bibnamehash}{e4f449e4ce6b7a2977920c7f2dc1ae44}
+      \strng{authorbibnamehash}{e4f449e4ce6b7a2977920c7f2dc1ae44}
+      \strng{authornamehash}{aa8f31b3f7162abdeb9d74491161795f}
+      \strng{authorfullhash}{e4f449e4ce6b7a2977920c7f2dc1ae44}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{nature}
+      \field{number}{7676}
+      \field{title}{Mastering the game of go without human knowledge}
+      \field{volume}{550}
+      \field{year}{2017}
+      \field{pages}{354\bibrangedash 359}
+      \range{pages}{6}
+    \endentry
+    \entry{lin2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dba1e62f5e1e92aa5396e48d7b8cff1d}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Hsien-I},
+           giveni={H\bibinithyphendelim I\bibinitperiod}}}%
+        {{hash=dd7f045b8fbe804890b12e0c56527d46}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Zhangguo},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=43699e60971e43f0dafa87e0b5f87a72}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Yi-Chen},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{85a7c498f5ddd27a180aa6332612a1e2}
+      \strng{fullhash}{85a7c498f5ddd27a180aa6332612a1e2}
+      \strng{bibnamehash}{85a7c498f5ddd27a180aa6332612a1e2}
+      \strng{authorbibnamehash}{85a7c498f5ddd27a180aa6332612a1e2}
+      \strng{authornamehash}{85a7c498f5ddd27a180aa6332612a1e2}
+      \strng{authorfullhash}{85a7c498f5ddd27a180aa6332612a1e2}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{month}{01}
+      \field{title}{Ball Tracking and Trajectory Prediction for Table-Tennis Robots}
+      \field{volume}{20}
+      \field{year}{2020}
+      \field{pages}{333}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s20020333
+      \endverb
+    \endentry
     \entry{pratt2015cambrian}{article}{}
       \name{author}{1}{}{%
         {{hash=b4847a5920a9f3691ddab591a057432c}{%
@@ -36,8 +189,8 @@
       \strng{authorbibnamehash}{b4847a5920a9f3691ddab591a057432c}
       \strng{authornamehash}{b4847a5920a9f3691ddab591a057432c}
       \strng{authorfullhash}{b4847a5920a9f3691ddab591a057432c}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Journal of Economic Perspectives}
@@ -45,6 +198,7 @@
       \field{title}{Is a Cambrian Explosion Coming for Robotics?}
       \field{volume}{29}
       \field{year}{2015}
+      \field{dateera}{ce}
       \field{pages}{51\bibrangedash 60}
       \range{pages}{10}
     \endentry
