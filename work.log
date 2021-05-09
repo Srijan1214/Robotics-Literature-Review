@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.7)  9 MAY 2021 10:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.7)  9 MAY 2021 18:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -535,14 +535,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 \@quotelevel=\count405
 \@quotereset=\count406
- (./work.aux
-
-LaTeX Warning: Label `fig' multiply defined.
-
-
-LaTeX Warning: Label `fig' multiply defined.
-
-)
+ (./work.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
@@ -614,31 +607,36 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <images/evolution_of_hri.png, id=10, 1013.7875pt x 456.70625pt>
 File: images/evolution_of_hri.png Graphic file (type png)
 <use images/evolution_of_hri.png>
-Package pdftex.def Info: images/evolution_of_hri.png  used on input line 64.
+Package pdftex.def Info: images/evolution_of_hri.png  used on input line 68.
 (pdftex.def)             Requested size: 258.0pt x 116.2251pt.
 <images/hri_total_number_of_publication.png, id=12, 1044.90375pt x 598.235pt>
 File: images/hri_total_number_of_publication.png Graphic file (type png)
 <use images/hri_total_number_of_publication.png>
 Package pdftex.def Info: images/hri_total_number_of_publication.png  used on in
-put line 70.
+put line 74.
 (pdftex.def)             Requested size: 258.0pt x 147.71446pt.
-<images/grand_challenges.png, id=13, 1307.88625pt x 551.05875pt>
+ [2 <./images/evolution_of_hri.png> <./images/hri_total_number_of_publication.p
+ng>]
+<images/grand_challenges.png, id=19, 1307.88625pt x 551.05875pt>
 File: images/grand_challenges.png Graphic file (type png)
 <use images/grand_challenges.png>
-Package pdftex.def Info: images/grand_challenges.png  used on input line 80.
+Package pdftex.def Info: images/grand_challenges.png  used on input line 90.
 (pdftex.def)             Requested size: 258.0pt x 108.70467pt.
- [2 <./images/evolution_of_hri.png> <./images/hri_total_number_of_publication.p
-ng> <./images/grand_challenges.png>] [3]
-Underfull \hbox (badness 2173) in paragraph at lines 105--105
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./images/grand_challenges.png>]
+Underfull \hbox (badness 2173) in paragraph at lines 107--107
 \OT1/ptm/m/n/10 robotics?'' \OT1/ptm/m/it/10 The Jour-nal of Eco-nomic Per-spec
 -tives\OT1/ptm/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 105--105
+Underfull \hbox (badness 5245) in paragraph at lines 107--107
 []\OT1/ptm/m/n/10 P. Tsarouchi, S. Makris, and G. Chrys-solouris,
  []
 
+[4]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -650,32 +648,28 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4
+[5
 
 ] (./work.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package logreq Info: Writing requests to 'work.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 11559 strings out of 479383
- 206204 string characters out of 5875831
- 918542 words of memory out of 5000000
- 28550 multiletter control sequences out of 15000+600000
+ 11565 strings out of 479383
+ 206415 string characters out of 5875831
+ 917645 words of memory out of 5000000
+ 28556 multiletter control sequences out of 15000+600000
  440935 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,73p,1857b,1958s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
-></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dis
-t/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times
-/utmri8a.pfb>
-Output written on work.pdf (4 pages, 549568 bytes).
+ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/ti
+mes/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/s
+hare/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/t
+ype1/urw/times/utmri8a.pfb>
+Output written on work.pdf (5 pages, 546552 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

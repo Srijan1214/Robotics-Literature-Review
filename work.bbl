@@ -216,6 +216,81 @@
       \verb 10.3390/s20020333
       \endverb
     \endentry
+    \entry{patel2012machine}{article}{}
+      \name{author}{4}{}{%
+        {{hash=34c4f9f2e942a082c8a165f1bea248d5}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Krishna\bibnamedelima Kumar},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=0ce753774b6a1181a4af4f0aea76af76}{%
+           family={Kar},
+           familyi={K\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ebfb1ca77d244c7cedd26fa7c2a33f59}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={SN},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d0c765cedcaeac8e3631cb2e8d03530e}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={MA},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1914eacc1b54899f3c7d41c161e3fd1c}
+      \strng{fullhash}{76e6686612c08a3e5874c8c9de552468}
+      \strng{bibnamehash}{76e6686612c08a3e5874c8c9de552468}
+      \strng{authorbibnamehash}{76e6686612c08a3e5874c8c9de552468}
+      \strng{authornamehash}{1914eacc1b54899f3c7d41c161e3fd1c}
+      \strng{authorfullhash}{76e6686612c08a3e5874c8c9de552468}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of food science and technology}
+      \field{number}{2}
+      \field{title}{Machine vision system: a tool for quality inspection of food and agricultural products}
+      \field{volume}{49}
+      \field{year}{2012}
+      \field{pages}{123\bibrangedash 141}
+      \range{pages}{19}
+    \endentry
+    \entry{wiley2018computer}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e73a6533300f9e9f0cdebb76da3c2cfb}{%
+           family={Wiley},
+           familyi={W\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ddc94f150f063c494ad498c17ec071c4}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4158057f050522650bf57d5e0fc98209}
+      \strng{fullhash}{4158057f050522650bf57d5e0fc98209}
+      \strng{bibnamehash}{4158057f050522650bf57d5e0fc98209}
+      \strng{authorbibnamehash}{4158057f050522650bf57d5e0fc98209}
+      \strng{authornamehash}{4158057f050522650bf57d5e0fc98209}
+      \strng{authorfullhash}{4158057f050522650bf57d5e0fc98209}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Artificial Intelligence Research}
+      \field{number}{1}
+      \field{title}{Computer vision and image processing: a paper review}
+      \field{volume}{2}
+      \field{year}{2018}
+      \field{pages}{29\bibrangedash 36}
+      \range{pages}{8}
+    \endentry
     \entry{krizhevsky2012imagenet}{article}{}
       \name{author}{3}{}{%
         {{hash=c5e3a676e2ac1164b3afcd539c131fc9}{%
@@ -240,8 +315,8 @@
       \strng{authorbibnamehash}{1a23c09aa65b3c2ade45ed18d8127375}
       \strng{authornamehash}{1a23c09aa65b3c2ade45ed18d8127375}
       \strng{authorfullhash}{1a23c09aa65b3c2ade45ed18d8127375}
-      \field{sortinit}{9}
-      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Advances in neural information processing systems}
@@ -368,8 +443,8 @@
       \strng{authorbibnamehash}{2d966d23b6bd314dd15eaa181c79ec3e}
       \strng{authornamehash}{2d966d23b6bd314dd15eaa181c79ec3e}
       \strng{authorfullhash}{2d966d23b6bd314dd15eaa181c79ec3e}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Eighth International Conference on Document Analysis and Recognition (ICDAR'05)}
@@ -509,8 +584,8 @@
       \strng{authorbibnamehash}{3f026d623141fabaa39072a95e7b66d0}
       \strng{authornamehash}{91239b60eda9ba8e0c8bd776279d9b5b}
       \strng{authorfullhash}{3f026d623141fabaa39072a95e7b66d0}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science robotics}
