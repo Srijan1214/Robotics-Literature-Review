@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.7)  9 MAY 2021 19:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.7)  9 MAY 2021 21:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -603,47 +603,99 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-] [2] [3]
-Underfull \hbox (badness 2042) in paragraph at lines 107--108
+] [2]
+<prerak_images/Picture1.png, id=13, 282.30469pt x 216.05719pt>
+File: prerak_images/Picture1.png Graphic file (type png)
+<use prerak_images/Picture1.png>
+Package pdftex.def Info: prerak_images/Picture1.png  used on input line 75.
+(pdftex.def)             Requested size: 258.0pt x 197.46948pt.
+<prerak_images/Picture2.png, id=15, 334.24875pt x 188.20313pt>
+File: prerak_images/Picture2.png Graphic file (type png)
+<use prerak_images/Picture2.png>
+Package pdftex.def Info: prerak_images/Picture2.png  used on input line 87.
+(pdftex.def)             Requested size: 258.0pt x 145.28156pt.
+<prerak_images/Picture3.png, id=16, 290.58563pt x 164.11313pt>
+File: prerak_images/Picture3.png Graphic file (type png)
+<use prerak_images/Picture3.png>
+Package pdftex.def Info: prerak_images/Picture3.png  used on input line 95.
+(pdftex.def)             Requested size: 258.0pt x 145.71965pt.
+ [3 <./prerak_images/Picture1.png> <./prerak_images/Picture2.png> <./prerak_ima
+ges/Picture3.png>]
+<prerak_images/Picture4.jpg, id=23, 234.8775pt x 198.7425pt>
+File: prerak_images/Picture4.jpg Graphic file (type jpg)
+<use prerak_images/Picture4.jpg>
+Package pdftex.def Info: prerak_images/Picture4.jpg  used on input line 119.
+(pdftex.def)             Requested size: 258.0pt x 218.30809pt.
+<prerak_images/Picture7.png, id=24, 469.755pt x 244.66406pt>
+File: prerak_images/Picture7.png Graphic file (type png)
+<use prerak_images/Picture7.png>
+Package pdftex.def Info: prerak_images/Picture7.png  used on input line 127.
+(pdftex.def)             Requested size: 258.0pt x 134.37524pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./prerak_images/Picture4.jpg>]
+Underfull \hbox (badness 2042) in paragraph at lines 138--139
  \OT1/ptm/m/it/10 4) Pro-cess-ing Units for Hu-manoid Robot: [][] \OT1/ptm/m/n/
 10 Hu-manoid
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 115--116
+Underfull \hbox (badness 2035) in paragraph at lines 146--147
  \OT1/ptm/m/it/10 6) Power Sup-ply for Hu-manoid Robot: [][] \OT1/ptm/m/n/10 Po
 rtable and
  []
 
-<images/evolution_of_hri.png, id=17, 1013.7875pt x 456.70625pt>
+<prerak_images/Picture8.png, id=29, 469.755pt x 262.73157pt>
+File: prerak_images/Picture8.png Graphic file (type png)
+<use prerak_images/Picture8.png>
+Package pdftex.def Info: prerak_images/Picture8.png  used on input line 151.
+(pdftex.def)             Requested size: 258.0pt x 144.29834pt.
+<prerak_images/Picture9.png, id=30, 469.755pt x 197.98969pt>
+File: prerak_images/Picture9.png Graphic file (type png)
+<use prerak_images/Picture9.png>
+Package pdftex.def Info: prerak_images/Picture9.png  used on input line 158.
+(pdftex.def)             Requested size: 258.0pt x 108.74059pt.
+[5 <./prerak_images/Picture7.png> <./prerak_images/Picture8.png> <./prerak_imag
+es/Picture9.png>]
+<images/evolution_of_hri.png, id=37, 1013.7875pt x 456.70625pt>
 File: images/evolution_of_hri.png Graphic file (type png)
 <use images/evolution_of_hri.png>
-Package pdftex.def Info: images/evolution_of_hri.png  used on input line 133.
+Package pdftex.def Info: images/evolution_of_hri.png  used on input line 179.
 (pdftex.def)             Requested size: 258.0pt x 116.2251pt.
-[4]
-<images/hri_total_number_of_publication.png, id=22, 1044.90375pt x 598.235pt>
+<images/hri_total_number_of_publication.png, id=38, 1044.90375pt x 598.235pt>
 File: images/hri_total_number_of_publication.png Graphic file (type png)
 <use images/hri_total_number_of_publication.png>
 Package pdftex.def Info: images/hri_total_number_of_publication.png  used on in
-put line 139.
+put line 185.
 (pdftex.def)             Requested size: 258.0pt x 147.71446pt.
-<images/grand_challenges.png, id=23, 1307.88625pt x 551.05875pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/grand_challenges.png, id=39, 1307.88625pt x 551.05875pt>
 File: images/grand_challenges.png Graphic file (type png)
 <use images/grand_challenges.png>
-Package pdftex.def Info: images/grand_challenges.png  used on input line 155.
+Package pdftex.def Info: images/grand_challenges.png  used on input line 201.
 (pdftex.def)             Requested size: 258.0pt x 108.70467pt.
- [5 <./images/evolution_of_hri.png> <./images/hri_total_number_of_publication.p
-ng> <./images/grand_challenges.png>] [6]
-Underfull \hbox (badness 2173) in paragraph at lines 174--174
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./images/evolution_of_hri.png> <./images/hri_total_number_of_publication.p
+ng>]
+[7 <./images/grand_challenges.png>]
+Underfull \hbox (badness 2173) in paragraph at lines 221--221
 \OT1/ptm/m/n/10 robotics?'' \OT1/ptm/m/it/10 The Jour-nal of Eco-nomic Per-spec
 -tives\OT1/ptm/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 174--174
+Underfull \hbox (badness 5245) in paragraph at lines 221--221
 []\OT1/ptm/m/n/10 P. Tsarouchi, S. Makris, and G. Chrys-solouris,
  []
 
+[8]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -655,14 +707,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[7] (./work.aux)
+[9
+
+] (./work.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                work
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'work.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 11599 strings out of 479383
- 208014 string characters out of 5875831
- 921934 words of memory out of 5000000
- 28590 multiletter control sequences out of 15000+600000
+ 11650 strings out of 479383
+ 209243 string characters out of 5875831
+ 926019 words of memory out of 5000000
+ 28632 multiletter control sequences out of 15000+600000
  440935 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,73p,1857b,1958s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -671,10 +733,10 @@ ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/ti
 mes/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/s
 hare/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on work.pdf (7 pages, 566098 bytes).
+Output written on work.pdf (9 pages, 1227712 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

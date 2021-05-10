@@ -42,13 +42,12 @@ Human-centered robots, anthropomorphism, pattern recognition, computer vision, n
 \end{IEEEkeywords}
 
 \section{Introduction}
-Humanoid robots are very popular in science fiction. There are many movies such as the terminator where the robots are almost identical to humans. In the past two decade big progress has been made to make robots increasingly human. Compared to traditional robots such as industrial robots, human-centered robots require completely different performance measurement requirements\autocite{zinn2004new}. In this paper, we will present the various driver of this anthropomorphic development in robotics and delve into the literature that analyzes the contemporary research in them.
+Humanoid robots are very popular in science fiction. There are many movies such as the terminator where the robots are almost identical to humans. In the past two decade big progress has been made to make robots increasingly human. Compared to traditional robots such as industrial robots, human-centered robots require completely different performance measurement requirements\autocite{zinn2004new}. In this paper, we will present the various driver of this anthropomorphic development in robotics and delve into the literature that analyzes the contemporary research in them. We would be looking at how the advancements in pattern recognition predicate the rapid expansion of robotics logic. We would be looking at the important subfields of pattern recognition itself and present the relevant scientific literature surrounding each of those topics. We would also be presenting how progress in computer hardware is contributing to a large part to subsequent advancement in intelligent robotics technologies. We would then delve deep into why could computing is engendering all areas of computer science and in turn, robotics. We also look into the literature behind human-robot interaction and key in on the main application categories of this subfield. After we have present the status quo of research in all these fields, we present the current challenges in all these fields that the current research is trying to solve.
 
 \section{Pattern Recognition}
 The human brain has the capability to recognize various patterns to function. As such, we would want an anthropomorphic robot to use mimic this useful ability. In the past decade much progress has been made in this area of robotics given the rapid expanse of artificial intelligence. One main impetus for progress in pattern recognition is the rise of GPU accelerated machine learning techniques. One popular technique on the rise for pattern recognition is reinforcement learning where an agent uses many types of reinforcement learning which tries to maximize some sort of reward function for the agent. This sort of approach utilities mathematical models that uses. One common type of machine learning model used in robotics is the artificial neural network. However, though these have been proved to be very useful and though their distributed nature is similar to natural neural networks, their name itself is misleading because they have flaws like being brittle, inefficient, and myopic\autocite{Watson2019}. Though there are many projects that have used artificial neural networks to achieve very anthropomorphic results. One such project is famous alpha go project that used artificial neural networks to create an AI that beat Lee Sedol in a 6 game match against alpha go\autocite{silver2017mastering}. In that project, the neural network was initially trained using human game datasets and was then later trained using dataset of its own games\autocite{silver2017mastering}. Another project that was inspired from this project was a table tennis playing robot by \textcite{lin2020}. In that project, \textcite{lin2020} used Deep Neural Networks to handle parameters such as air resistance, the magnus effect, etc., and trained the said network using real life game simulations.
 
 \subsection{Computer Vision}
-wiley2018computer
 One of the key driving factors of intelligent robots is the progress that we have made in computer vision in the past decade. Computer vision has been expanded into the vast area of field ranging from recording raw data into the extraction of image pattern and information interpretation\autocite{patel2012machine}. Most of the tasks in computer vision are related to observing input scenes and getting the necessary information from them. ``Computer vision works by using an algorithm and optical sensors to stimulate human visualization to automatically extract valuable information from an object''\autocite{wiley2018computer}. This field has been studied from many different perspectives and combines ideas from digital image processing, pattern recognition, machine learning, computer graphics, and human neurology. 
 
 During the 1990s, there was not much progress made in this field. However, ever since \textcite{krizhevsky2012imagenet} published their paper on Alexnet and demonstrated their groundbreaking result on image classification using CNNs and GPU accelerated deep learning, there has been a boom in the future papers utilizing such tools. Robots now are capable of performing various forms of vision tasks that they were previously unable to perform. One famous modern application is in unmanned vehicles where the vehicle is able to navigate around its environments simply with the usage of visual data. Another is medical image processing where machine help medical professionals get information about patients from visual data. This boom in computer vision is so significant it even leads \textcite{pratt2015cambrian} to call it the possible ``robotics Cambrian explosion'' because this phenomenon of robotic achieving vision is just like the era when there was an exponential increase in evolutionary diversity largely caused by the natural creatures gaining vision. 
@@ -70,7 +69,13 @@ As portrayed in the importance of emergence in the development of humanoid, arti
 
 \subsection{Cloud computing in Humanoid Robot Development and Cloud Robotics}
 \subsubsection{Introduction}
-The term "cloud robotics" was coined in 2010 by James Kuffner, then at Carnegie Mellon University. The concept can be viewed as robots that are wirelessly linked to, and rely on, one or more computers in a remote location to support or facilitate certain aspects of its operation, i.e. where not all of the computation power, software, or memory is integrated into the robot\autocite{3bogue2017cloud}. The exploration of cloud computing and its use in cloud robotics is a topic surfacing to interest in recent years, however, research on the idea of using a "remote brain" on a robot has carried out from as early as the 1990s, when Masayuki Inaba, professor at the University of Tokyo explored this concept of remote brains, which he termed himself and this involved physically separating the robotic hardware from high-level reasoning software in a remote computer (Inaba, 1993). Now, cloud robotics technology seeks to build on that concept by exploiting the inexpensive computing power and massive data storage capacity of cloud computing systems, combined with the ubiquitous net connectivity available currently\autocite{3bogue2017cloud}. Below is a figure of the cloud configuration of a leading Cloud Robotics company, RoboEarth\autocite{13wan2016cloud}.
+The term "cloud robotics" was coined in 2010 by James Kuffner, then at Carnegie Mellon University. The concept can be viewed as robots that are wirelessly linked to, and rely on, one or more computers in a remote location to support or facilitate certain aspects of its operation, i.e. where not all of the computation power, software, or memory is integrated into the robot\autocite{3bogue2017cloud}. The exploration of cloud computing and its use in cloud robotics is a topic surfacing to interest in recent years, however, research on the idea of using a "remote brain" on a robot has carried out from as early as the 1990s, when Masayuki Inaba, professor at the University of Tokyo explored this concept of remote brains, which he termed himself and this involved physically separating the robotic hardware from high-level reasoning software in a remote computer as quoted from Inaba in 1993 \autocite{3bogue2017cloud}. Now, cloud robotics technology seeks to build on that concept by exploiting the inexpensive computing power and massive data storage capacity of cloud computing systems, combined with the ubiquitous net connectivity available currently\autocite{3bogue2017cloud}. Below is a figure of the cloud configuration of a leading Cloud Robotics company, RoboEarth\autocite{13wan2016cloud}.
+
+\begin{figure}[h]
+    \centerline{\includegraphics[width=0.5\textwidth]{prerak_images/Picture1.png}}
+    \caption{Figure showing cloud architecture for cloud robotics\autocite{13wan2016cloud}}
+\label{prerakfig1}
+\end{figure}
 
 \subsubsection{Application and Developments of Cloud Computing on Humanoid Robots}
 With the advancement in data storage, management, and manipulation through cloud computing, The ability to access huge data sets, massive computational power and all manner of APIs is of potential benefit to most classes of robots, as mentioned by Bogue in his journal on cloud robotics\autocite{3bogue2017cloud}. The application of cloud technologies has been proposed for the development of many mobile/autonomous robotic vehicles, surgical, household, and military robots. It has also been recognized that humanoid robots are prime applicants for cloud computing. The aim of many humanoids is to interact with humans through speech but natural language processing, i.e. the ability to understand the subtleties of context and meaning, poses a huge technological challenge and requires massive and power-hungry signal processing, something that cannot realistically be incorporated into a small humanoid robot. Accordingly, in most cases at present, a humanoid robot's speech patterns are still limited to a range of stilted, programmed responses that are usually based on trigger words and pre-set behavior\autocite{3bogue2017cloud}. These limitations are changing – and are on the verge of mitigation with the application of cloud computing.
@@ -78,7 +83,19 @@ With the advancement in data storage, management, and manipulation through cloud
 \subsubsection{Implementation}
 In October 2019, CloudMinds Technology Inc., one of the world's leading cloud robot and services company, demoed their humanoid service robots at the Mobile World Congress in Los Angeles, which is described as the first humanoid robot in the United States to use cloud-based AI and 5G connectivity. The service robot, named XR-1, implements a cloud-first approach to robotics and artificial intelligence development, as according to CloudMinds, for service robots to be truly useful, they need artificial intelligence running on the cloud accessible over 5G networks, and to ensure minimal latency\autocite{4demaitre_demaitre_2020}.
 
-As another example, Ericsson, the Swedish telecoms giant, is looking into the cloud robotic possibilities presented by the upcoming 5G network. In addition to faster speeds, 5G can meet the demands of modern and evolving technologies such as the Internet of Things, allowing for higher numbers of concurrently connected devices, lower latency, and new levels of reliability, making it suitable for cloud computing. Manufacturing, agriculture, factories, and health care are among the possible applications listed by Ericsson. Mobile cloud robot prototypes have already been demonstrated in a simulated space, transferring materials between work-cells and a warehouse (Figure 7). A laser rangefinder was used for navigation, and a webcam was used for pattern recognition. The trials began with a learning process, during which the laser rangefinder produced a map of the working area that was later used by the robot for localization\autocite{3bogue2017cloud}
+\begin{figure}[h]
+    \centerline{\includegraphics[width=0.5\textwidth]{prerak_images/Picture2.png}}
+    \caption{XR-1 Humanoid Robot at MWC Los Angeles\autocite{4demaitre_demaitre_2020}}
+\label{prerakfig2}
+\end{figure}
+
+As another example, Ericsson, the Swedish telecoms giant, is looking into the cloud robotic possibilities presented by the upcoming 5G network. In addition to faster speeds, 5G can meet the demands of modern and evolving technologies such as the Internet of Things, allowing for higher numbers of concurrently connected devices, lower latency, and new levels of reliability, making it suitable for cloud computing. Manufacturing, agriculture, factories, and health care are among the possible applications listed by Ericsson. Mobile cloud robot prototypes have already been demonstrated in a simulated space, transferring materials between work-cells and a warehouse\ref{prerakfig3}. A laser rangefinder was used for navigation, and a webcam was used for pattern recognition. The trials began with a learning process, during which the laser rangefinder produced a map of the working area that was later used by the robot for localization\autocite{3bogue2017cloud}
+
+\begin{figure}[h]
+    \centerline{\includegraphics[width=0.5\textwidth]{prerak_images/Picture3.png}}
+    \caption{Experimental Setup of the Simulated Space, Ericsson\autocite{3bogue2017cloud}}
+\label{prerakfig3}
+\end{figure}
 
 \subsubsection{Limitations}
 Though cloud computing can provide many advantages that humanoid robots can benefit from, however, there are also limitations to its use in different circumstances. Some of these limitations to cloud computation in development of humanoid robots are listed below:
@@ -96,7 +113,21 @@ As stated by Saeed Saeedvand and authors in their scholarly journal on humanoid 
 
 \subsubsection{Hardware architecture and configuration for Navigation}
 The mechanical design of humanoid robots is the most important aspect of their creation. The architecture of humanoid robots' mechanical structure and kinematics has been influenced by human structure and kinematics.
-Each joint of a humanoid robot has some parameters that determine the state of a physical system, such as the degrees of freedom (DOF). The total number of independent displacements or aspects of motion is equal to the number of robot’s DOF. A humanoid robot includes torso, hip, head, neck, two arms, hands, legs, and feet, and each joint in a humanoid robot can be rotated in three orthogonal axes in maximum as roll, pitch, and yaw\autocite{5saeedvand2019comprehensive}.
+Each joint of a humanoid robot has some parameters that determine the state of a physical system, such as the degrees of freedom (DOF). The total number of independent displacements or aspects of motion is equal to the number of robot’s DOF. A humanoid robot includes torso, hip, head, neck, two arms, hands, legs, and feet, and each joint in a humanoid robot can be rotated in three orthogonal axes in maximum as roll, pitch, and yaw\autocite{5saeedvand2019comprehensive}.Figure \ref{prerakfig4} shows a labelled diagram of an XR-1 humanoid robot model. With higher number of degrees of freedom in multiple joints, its navigational and locomotive development is very complex.
+
+\begin{figure}[h]
+    \centerline{\includegraphics[width=0.5\textwidth]{prerak_images/Picture4.jpg}}
+    \caption{Figure displaying different DOFs in XR-1 from CloudMinds\autocite{4demaitre_demaitre_2020}}
+\label{prerakfig4}
+\end{figure}
+
+The figure below provides specification of the number of DOFs of some well known adult-sized and child-sized  humanoid robots
+
+\begin{figure}[h]
+    \centerline{\includegraphics[width=0.5\textwidth]{prerak_images/Picture7.png}}
+    \caption{Figure showing specifications of the number of DOFs of some well-known humanioid robot models}
+\label{prerakfig5}
+\end{figure}
 
 There are different hardware components required to allow movement of a humanoid robot arm, with respect to the tasks required to be done and the features the robot system will provide, they are as follows:
 
@@ -113,6 +144,21 @@ The IMU is the most significant sensor in humanoid robots because of their biped
 
 \subsubsection{Power Supply for Humanoid Robot}
 Portable and rechargeable battery packs are typically used to power a bipedal humanoid robot. Portable generators are also used in some situations. Rechargeable batteries come in a variety of shapes and sizes, and they are often used in mobile robots. Li-PO batteries are the most popular battery type on humanoid robots (lithium-polymer) with advantages of higher energy density, safe performance, high discharge rate, and withstanding high frequency charging cycles\autocite{5saeedvand2019comprehensive}.
+
+    Figure \ref{prerakfig6} below provides specification of the hardware configurations of some well-known humanoid robot models categorized as child-sized and Figure\autocite{7mejias2017easy} provides specifications for well know adult-sized humanoid robot models\autocite{5saeedvand2019comprehensive}:
+
+\begin{figure}[h]
+    \centerline{\includegraphics[width=0.5\textwidth]{prerak_images/Picture8.png}}
+    \caption{Hardware Specifications of Child-sized humanoid robots}
+\label{prerakfig6}
+\end{figure}
+
+
+\begin{figure}[h]
+    \centerline{\includegraphics[width=0.5\textwidth]{prerak_images/Picture9.png}}
+    \caption{Hardware Specifications of Adult-sized humanoid robots}
+\label{prerakfig7}
+\end{figure}
 
 \subsection{Software Architecture and Configuration for navigation}
 The Robot Operating System (ROS) was created to address the issue of diversity and to provide unification as well as a faster implementation process\autocite{5saeedvand2019comprehensive}. ROS is a collection of software libraries and resources that enable researchers to create robot applications.
@@ -156,6 +202,7 @@ Human-robot interaction is an expanding field with hundreds of publications bein
     \caption{Figure showcasing the challenges big challenges to modern robotics. Figure gotten from\autocite{yang2018grand}}
 \label{fig3}
 \end{figure}
+
 In the paper "The grand challenges of Science Robotics", the authors \textcite{yang2018grand} mention the following as the biggest challenges to future robotics for the next 5 - 10 years. They can easily be interpolated to human-centered robots as well.
 \begin{itemize}
 \item \textbf{Robot swarms:} Emergence is one of the most interesting observations we see in our natural environment. Robots swarms replicate natural emergence and allow simpler, less expensive, modular robotic units to be reconfigured into a team. Robot networks integrated with our infrastructure have tremendous potential for solving the most pressing problems facing human civilization. 
